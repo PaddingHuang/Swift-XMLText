@@ -1,0 +1,182 @@
+﻿<resources>
+    <string name="app_name">车行无忧查违章</string>
+    <string name="login_password_hint">请输入密码</string>
+    <string name="login_phone_hint">请输入手机号码</string>
+    <string name="login_btn">登           录</string>
+    <string name="forget_password">忘记密码?</string>
+    <string name="forgetPassword">忘记密码</string>
+
+    <string name="delete_message">删除消息</string>
+    <string name="copy_message">复制消息</string>
+    <string name="delete_voice">删除语音</string>
+    <string name="delete">删除</string>
+    <string name="text_fahuo">你们多久可以发货?</string>
+    <string name="text_weight">这个我应该穿什么号的？我身高165，体重46kg</string>
+    <string name="text_color">还有其他颜色的吗?</string>
+    <string name="text_kuaidi">你们发的是什么快递?</string>
+    <string name="em_tip_wating">加载中...</string>
+    <string name="em_tip_request_fail">request fail!</string>
+    <string name="title_satifisfaction_eval">服务评价</string>
+    <string name="nick_service">服务评价</string>
+    <string name="tip_eval">请对我的服务进行评价</string>
+    <string name="hint_leave_message">请输入评价内容</string>
+    <string name="tip_btn_sumbit">提交</string>
+    <string name="refresh">刷新</string>
+    <string name="dialog_messages_illegal">您的违章已提交处理，请30分钟-48小时后点击“我的违章”查看决定书号交款。\n用车行无忧缴罚款，省心！</string>
+
+    <!--about us-->
+    <string name="aboutUs">关于我们</string>
+    <string name="share">分享</string>
+    <string name="aboutUsTitle">车行无忧 战胜违章神器</string>
+    <string name="channelCooperation">【渠道合作】</string>
+    <string name="channelCooperationMessages">负责车行无忧在各大应用商店、手机厂商、下载站、优质APP、汽车垂直网站等渠道推广，包括应用收录、首发、换量、联合活动、资源合作等。</string>
+    <string name="marketCooperation">【市场合作】</string>
+    <string name="marketCooperationMessages">与汽车厂商、汽车服务提供商、汽车网站、保险公司、相关行业合作单位的商务类合作、活动推广、品牌宣传服务。</string>
+    <string name="cooperationWay">【合作方式】</string>
+    <string name="weChatOfficialAccount">微信公众号：车行无忧APP</string>
+    <string name="officialSinaWeiboAccount">官方微博：</string>
+    <string name="officialSinaWeiboURL">车行无忧</string>
+    <string name="officialWebsite">官方网站：</string>
+    <string name="officialWebsiteUrl">http://chexing51.cn</string>
+    <string name="email">Email：</string>
+    <string name="emailAddress">m@chexing51.cn</string>
+    <string name="officialPhone">电话：</string>
+    <string name="officialPhoneNumber">0851-85981777</string>
+    <string name="versionName">当前版本</string>
+    <string name="checkForUpdate">检查更新</string>
+
+    <!--新增查询界面-->
+    <string name="back">返回</string>
+    <string name="add_query">新增查询</string>
+    <string name="license_num">驾驶证号</string>
+    <string name="license_num_hint">输入18位驾驶证号</string>
+    <string name="dabh">档案编号</string>
+    <string name="dabh_hint">输入12位档案编号</string>
+    <string name="license_ok">确认保存并新增驾驶证</string>
+    <string name="license_desc1">您的信息仅用于违章查询</string>
+    <string name="license_desc2">请放心填写</string>
+    <string name="hphm">车牌号码</string>
+    <string name="hphm_city">贵</string>
+    <string name="hphm_hww">输入车牌号后6位</string>
+    <string name="fdjh">发动机号</string>
+    <string name="fdjh_hint">输入发动机号后6位</string>
+    <string name="hpzl">号牌种类</string>
+    <string name="hpzl_str">蓝牌</string>
+    <string name="cjh_hint">输入车架号</string>
+    <string name="syr_hint">输入机动车所有人姓名</string>
+    <string name="vehicle_ok">确认保存并新增车辆</string>
+
+    <!--agent activity-->
+    <string name="agent">车务代办</string>
+    <string name="updateVip"><![CDATA[<<<升级会员享更多优惠>>>]]></string>
+    <string name="officialWebsiteAboutUs">车行无忧官方网址 :  </string>
+    <string name="officialSineWeiBoAboutUs">车行无忧官方微博 :  </string>
+    <string name="officialSineWeiBoURLAboutUs">车行无忧</string>
+    <string name="officialWeChatAgentAboutUs">\u3000\u3000微信关注:车行无忧APP，点击【车主服务】—【车务代办】即可</string>
+
+    <string name="no_result">对不起，没有搜索到相关数据！</string>
+
+    <string name="app_id">58c7a654</string>
+    <string name="congestion">避免拥堵</string>
+    <string name="cost">避免收费</string>
+    <string name="avoidhightspeed">不走高速</string>
+    <string name="hightspeed">高速优先</string>
+
+    <string name="notifyTitle">提示</string>
+    <string name="notifyMsg">当前应用缺少定位等必要权限。\n\n请点击\"设置\"-\"权限\"-打开所需权限。</string>
+    <string name="setting">设置</string>
+    <string name="cancel">取消</string>
+
+    <!--dialog_choice_hpzl UI-->
+    <string name="hpzl_02">蓝牌(02)</string>
+    <string name="hpzl_01">黄牌(01)</string>
+
+    <!--号牌号码省份选择UI-->
+    <string name="centralAndNorthernCity">中部及北部省份</string>
+    <string name="east_city">东部省份</string>
+    <string name="west_city">西部省份</string>
+    <string name="hphm_title">号牌选择</string>
+    <string name="choice_city">所选省份：</string>
+    <string name="close_choice_hphm">关闭</string>
+
+    <!--违章查询首页UI-->
+    <string name="default_city">贵州</string>
+    <string name="query_vehicle_or_licence_info">查询车辆/驾驶证违章信息</string>
+    <string name="mine_illegals">我的违章</string>
+    <string name="illegals_gps">路况导航</string>
+    <string name="whxx">限行查询</string>
+    <string name="more_function">更多功能</string>
+    <string name="mine_illegals_query">我的违章查询</string>
+    <string name="mine_hphm_city">贵A</string>
+    <string name="query_vehicle_illegals">查询车辆违章</string>
+    <string name="query_licence_illegals">查询驾驶证违章</string>
+    <string name="blue_hpzl">蓝牌</string>
+    <string name="default_hphm">贵123456</string>
+    <string name="default_jszh">522123********1234</string>
+
+    <!--车辆信息UI-->
+    <string name="vehicle_info_title">车辆信息</string>
+    <string name="leve_vip">会员续费</string>
+    <string name="update_vehicle_info">修改车辆信息</string>
+    <string name="vehicle_ztdesc">状态：</string>
+    <string name="vehicle_zt">正常</string>
+    <string name="vehicle_scrqdesc">审车日期：</string>
+    <string name="vehicle_scrq">0000-00-00</string>
+    <string name="vehicle_bxrqdesc">保险日期：</string>
+    <string name="vehicle_bxrq">0000-00-00</string>
+    <string name="vehicle_fdjhdesc">发动机号：</string>
+    <string name="vehicle_fdjh">123456</string>
+    <string name="vehicle_cjh">789654</string>
+    <string name="wclwzts">15</string>
+    <string name="wzlwzdesc">未处理</string>
+    <string name="wzkfdesc">扣</string>
+    <string name="wzkf">16</string>
+    <string name="wjkwz">待缴款</string>
+    <string name="wzfkgjdesc">罚款</string>
+    <string name="wzfk">100</string>
+    <string name="wzlist">违章列表</string>
+    <string name="illegalsIsEmpty">恭喜您，暂无违章哦</string>
+    <string name="vehicle_wzsj">违章时间：</string>
+    <string name="vehicle_wzdz">违章地址：</string>
+    <string name="vehicle_wzxw">违章行为：</string>
+    <string name="vehicle_clbj">【已处理】</string>
+    <string name="vehicle_jkbj">【未交款】</string>
+    <string name="vehicle_wzkf">扣分：</string>
+    <string name="vehicle_wznum">5分</string>
+    <string name="vehicle_fkje">罚款：</string>
+    <string name="vehicle_fkjenum">￥180元</string>
+
+    <!--机动车违章详情UI-->
+    <string name="illegals_hphm">贵123456</string>
+    <string name="illegals_wzsjdesc">违章时间：</string>
+    <string name="illegals_wzsj">0000-00-00 00:00:00</string>
+    <string name="illegals_wzdzdesc">违章地址：</string>
+    <string name="illegals_wzdz">贵阳大十字</string>
+    <string name="illegals_wzxwdesc">违章行为：</string>
+    <string name="illegals_wzxw">不按规定停车</string>
+    <string name="illegals_cljgdesc">采集机关：</string>
+    <string name="illegals_cljg">贵阳市交警大队</string>
+    <string name="illegals_fkjedesc">罚款金额：</string>
+    <string name="illegals_znjedesc">滞纳金额：</string>
+    <string name="illegals_syfydesc">手续费用：</string>
+    <string name="illegals_sxfy">￥20元（会员尊享8元/条）</string>
+    <string name="illegals_vip_sxfy">（会员尊享8元/条）</string>
+    <string name="illegals_wzkfdesc">违章扣分：</string>
+    <string name="illegals_wzkf">3分</string>
+    <string name="illegals_clqkdesc">处理情况：</string>
+    <string name="illegals_clbj">【已处理】</string>
+    <string name="illegals_jkbj">【已交款】</string>
+    <string name="illegals_picture">违章图片：</string>
+    <string name="illegals_update_pic">违章图片加载失败，点此刷新</string>
+    <string name="illegals_nopic">没有查询到此条违章图片</string>
+    <string name="illegals_fkje">￥150元</string>
+
+    <!--会员描述-->
+    <string name="vip_details">
+            \u3000● 微信、APP、96699三种方式查询违章，随时随地更便捷\n
+            \u3000● 尊享代缴罚款5折优惠，省心更省钱\n
+            \u3000● 消息推送，主动提醒车辆信息\n
+            \u3000● 车驾管业务咨询，专业更贴心
+    </string>
+
+</resources>
